@@ -16,10 +16,7 @@ Hier findest du einige meiner Open-Source-Projekte sowie meine Lernfortschritte 
 
 ## 📈 GitHub Stats
 
-![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=NiklasDu&show_icons=true&hide_title=true&count_private=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasDu&langs_count=10&layout=compact)
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=NiklasDu)
 
 
 
