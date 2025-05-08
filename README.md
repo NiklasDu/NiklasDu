@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin Niklas,
+# 👋 Hi, ich bin Niklas
 
 Willkommen auf meinem GitHub-Profil! Ich bin Softwareentwickler und arbeite an spannenden Projekten. 
 Hier findest du einige meiner Open-Source-Projekte sowie meine Lernfortschritte in verschiedenen Programmiersprachen.
@@ -8,13 +8,11 @@ Hier findest du einige meiner Open-Source-Projekte sowie meine Lernfortschritte 
 - 🌐 verschiedenen Desktop und Webprojekten mit **Python** und **HTML/CSS**
 
 ## 🌱 Ich lerne gerade
-- **Python** für verschiedenes
+- **Python**
 - **HTML/CSS** für Webentwicklung
 
 ## 📫 Wie man mich erreicht
-- ✉️ E-Mail: [deineemail@example.com](mailto:deineemail@example.com)
 - 🌐 Instagram: [Instagram-URL](https://www.instagram.com/niklas_dudn/)
-- 🌐 Portfolio: [DeinePortfolio-Website]()
 
 ## 📈 GitHub Stats
 
