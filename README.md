@@ -1,0 +1,29 @@
+# 👋 Hi, ich bin Niklas,
+
+Willkommen auf meinem GitHub-Profil! Ich bin Softwareentwickler und arbeite an spannenden Projekten. 
+Hier findest du einige meiner Open-Source-Projekte sowie meine Lernfortschritte in verschiedenen Programmiersprachen.
+
+## 🔭 Aktuell arbeite ich an
+- 💻 [KeyTap](https://github.com/NiklasDu/Typing-Speed-Test): Eine App um seine Tippgeschwindigkeit an der Tastatur zu testen.
+- 🌐 verschiedenen Desktop und Webprojekten mit **Python** und **HTML/CSS**
+
+## 🌱 Ich lerne gerade
+- **Python** für verschiedenes
+- **HTML/CSS** für Webentwicklung
+
+## 📫 Wie man mich erreicht
+- ✉️ E-Mail: [deineemail@example.com](mailto:deineemail@example.com)
+- 🌐 Instagram: [Instagram-URL](https://www.instagram.com/niklas_dudn/)
+- 🌐 Portfolio: [DeinePortfolio-Website]()
+
+## 📈 GitHub Stats
+
+![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=NiklasDu&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 🚀 Einige meiner Projekte
+
+- [Projekt 1: KeyTap, der Tippgechwindigkeitstest](https://github.com/NiklasDu/Typing-Speed-Test)
+
+---
+
+> „Code ist wie Humor. Wenn du es erklärst, ist es nicht mehr gut.“ – [Martin Fowler](https://martinfowler.com/)
