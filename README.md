@@ -20,12 +20,6 @@ Hier findest du einige meiner Open-Source-Projekte sowie meine Lernfortschritte 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasDu&langs_count=10&layout=compact)
 
-
-
-## 🚀 Einige meiner Projekte
-
-- [Projekt 1: KeyTap, der Tippgechwindigkeitstest](https://github.com/NiklasDu/Typing-Speed-Test)
-
 ---
 
 > „Code ist wie Humor. Wenn du es erklärst, ist es nicht mehr gut.“ – [Martin Fowler](https://martinfowler.com/)
