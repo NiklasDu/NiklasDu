@@ -1,4 +1,4 @@
-# Hi, ich bin Niklas 👋
+# Hi, ich bin Niklas 👋🏼
 
 Willkommen auf meinem GitHub-Profil! Ich bin Softwareentwickler und arbeite an verschiedenen Projekten. 
 Hier findest du einige meiner Open-Source-Projekte sowie meine Lernfortschritte in verschiedenen Programmiersprachen.
