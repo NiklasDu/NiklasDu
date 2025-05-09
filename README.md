@@ -5,6 +5,7 @@ Hier findest du einige meiner Open-Source-Projekte sowie meine Lernfortschritte 
 
 ## 🔭 Aktuell arbeite ich an
 - 💻 [KeyTap](https://github.com/NiklasDu/Typing-Speed-Test): Eine App um seine Tippgeschwindigkeit an der Tastatur zu testen.
+- 👻 [GhostText](https://github.com/NiklasDu/Disappearing-Text): Probleme beim Texte verfassen, teste GhostText!
 - 🌐 verschiedenen Desktop und Webprojekten mit **Python** und **HTML/CSS**
 
 ## 🌱 Ich lerne gerade
