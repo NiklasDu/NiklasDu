@@ -7,7 +7,7 @@ Hier findest du einige meiner Open-Source-Projekte sowie meine Lernfortschritte 
 - 💻 [KeyTap](https://github.com/NiklasDu/Typing-Speed-Test): Eine App um seine Tippgeschwindigkeit an der Tastatur zu testen.
 - 👻 [GhostText](https://github.com/NiklasDu/Disappearing-Text): Probleme beim Texte verfassen, teste GhostText!
 - 🐦‍🔥 [PDFonix](https://github.com/NiklasDu/PDF-to-Audio): Wandle PDFs in Audio Datein um.
-- 🌐 verschiedenen Desktop und Webprojekten mit **Python** und **HTML/CSS**
+- 🎁 verschiedene kleinere Desktop und Webprojekte
 
 ## 🌱 Ich lerne gerade
 - **Python**
