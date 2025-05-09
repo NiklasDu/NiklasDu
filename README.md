@@ -9,7 +9,7 @@ Hier findest du einige meiner Open-Source-Projekte sowie meine Lernfortschritte 
 
 ## 🌱 Ich lerne gerade
 - **Python**
-- **HTML/CSS** für Webentwicklung
+- **HTML/CSS**
 
 ## 📫 Wie man mich erreicht
 - 🌐 Instagram: [Instagram-URL](https://www.instagram.com/niklas_dudn/)
