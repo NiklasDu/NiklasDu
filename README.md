@@ -1,6 +1,6 @@
 # 👋 Hi, ich bin Niklas
 
-Willkommen auf meinem GitHub-Profil! Ich bin Softwareentwickler und arbeite an spannenden Projekten. 
+Willkommen auf meinem GitHub-Profil! Ich bin Softwareentwickler und arbeite an verschiedenen Projekten. 
 Hier findest du einige meiner Open-Source-Projekte sowie meine Lernfortschritte in verschiedenen Programmiersprachen.
 
 ## 🔭 Aktuell arbeite ich an
