@@ -1,20 +1,20 @@
-# Hi, ich bin Niklas 👋🏼
+# Hi, I'm Niklas 👋🏼
 
-Willkommen auf meinem GitHub-Profil! Ich bin Softwareentwickler und arbeite an verschiedenen Projekten. 
-Hier findest du einige meiner Open-Source-Projekte sowie meine Lernfortschritte in verschiedenen Programmiersprachen.
+Welcome to my GitHub profile! I'm a software developer working on a variety of projects.  
+Here you’ll find some of my open-source work as well as progress in learning different programming languages.
 
-## 🔭 Meine aktuellsten Projekte sind
-- 💻 [KeyTap](https://github.com/NiklasDu/Typing-Speed-Test): Eine App um seine Tippgeschwindigkeit an der Tastatur zu testen.
-- 👻 [GhostText](https://github.com/NiklasDu/Disappearing-Text): Probleme beim Texte verfassen, teste GhostText!
-- 🐦‍🔥 [PDFonix](https://github.com/NiklasDu/PDF-to-Audio): Wandle PDFs in Audio Datein um.
-- 🎁 verschiedene kleinere Desktop und Webprojekte
+## 🔭 My Latest Projects
+- 💻 [KeyTap](https://github.com/NiklasDu/Typing-Speed-Test): An app to test your typing speed on the keyboard.
+- 👻 [GhostText](https://github.com/NiklasDu/Disappearing-Text): Struggling to write text? Try GhostText!
+- 🐦‍🔥 [PDFonix](https://github.com/NiklasDu/PDF-to-Audio): Convert PDF files into audio.
+- 🎁 Various smaller desktop and web projects
 
-## 🌱 Ich lerne gerade
+## 🌱 Currently Learning
 - **Python**
 - **HTML/CSS**
 
-## 📫 Wie man mich erreicht
-- 🌐 Instagram: [Instagram-URL](https://www.instagram.com/niklas_dudn/)
+## 📫 How to Reach Me
+- 🌐 Instagram: [@niklas_dudn](https://www.instagram.com/niklas_dudn/)
 
 ## 📈 GitHub Stats
 
@@ -22,4 +22,4 @@ Hier findest du einige meiner Open-Source-Projekte sowie meine Lernfortschritte 
 
 ---
 
-> „Code ist wie Humor. Wenn du es erklärst, ist es nicht mehr gut.“ – [Martin Fowler](https://martinfowler.com/)
+> “Code is like humor. When you have to explain it, it’s bad.” – [Martin Fowler](https://martinfowler.com/)
