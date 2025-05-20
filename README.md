@@ -12,6 +12,7 @@ Here you’ll find some of my open-source work as well as progress in learning d
 ## 🌱 Currently Learning
 - **Python**
 - **HTML/CSS**
+- **React/Tailwind**
 
 ## 📫 How to Reach Me
 - 🌐 Instagram: [@niklas_dudn](https://www.instagram.com/niklas_dudn/)
