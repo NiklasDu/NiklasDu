@@ -5,6 +5,7 @@ Here you’ll find some of my open-source work as well as progress in learning d
 
 ## 🔭 My Latest Projects
 - 💻 [KeyTap](https://github.com/NiklasDu/Typing-Speed-Test): An app to test your typing speed on the keyboard.
+- 🤝 [MateWise](https://github.com/NiklasDu/MateWise): A WebApp to meet Learning Partners.
 - 👻 [GhostText](https://github.com/NiklasDu/Disappearing-Text): Struggling to write text? Try GhostText!
 - 🐦‍🔥 [PDFonix](https://github.com/NiklasDu/PDF-to-Audio): Convert PDF files into audio.
 - 🎁 Various smaller desktop and web projects
