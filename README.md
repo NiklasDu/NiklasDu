@@ -12,7 +12,7 @@ Here you’ll find some of my open-source work as well as progress in learning d
 
 ## 🌱 Currently Learning
 - **Python**
-- **HTML/CSS**
+- **HTML/CSS/Javascript**
 - **React/Tailwind**
 
 ## 📫 How to Reach Me
