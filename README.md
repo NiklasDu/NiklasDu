@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a software developer working on a variety of p
 Here you’ll find some of my open-source work as well as progress in learning different programming languages.
 
 ## 🔭 My Latest Projects
-- 💻 [KeyTap](https://github.com/NiklasDu/Typing-Speed-Test): An app to test your typing speed on the keyboard.
-- 🤝 [MateWise](https://github.com/NiklasDu/MateWise): A WebApp to meet Learning Partners.
+- 💻 [KeyTap](https://github.com/NiklasDu/Typing-Speed-Test): A Desktop-App to test your typing speed on the keyboard.
+- 🤝 [MateWise](https://github.com/NiklasDu/MateWise): A Web-App to meet Learning Partners.
 - 🎶 [TuneScout](https://github.com/NiklasDu/TuneScout): Explore Charts for different Genres and Countries.
 - 🐦‍🔥 [PDFonix](https://github.com/NiklasDu/PDF-to-Audio): Convert PDF files into audio.
 - 🎁 Various smaller desktop and web projects
