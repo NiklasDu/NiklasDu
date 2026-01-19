@@ -13,11 +13,6 @@ Here you’ll find some of my open-source work as well as progress in learning d
 - 🐦‍🔥 [PDFonix](https://github.com/NiklasDu/PDF-to-Audio): Convert PDF files into audio.
 - 🎁 Various smaller desktop and web projects
 
-## 🌱 Currently Learning
-- **Python**
-- **HTML/CSS/Javascript**
-- **React/Tailwind**
-
 ## 📫 How to Reach Me
 - 🌐 Instagram: [@niklas_dudn](https://www.instagram.com/niklas_dudn/)
 
