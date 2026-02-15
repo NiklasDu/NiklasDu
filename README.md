@@ -16,10 +16,6 @@ Here you’ll find some of my open-source work as well as progress in learning d
 ## 📫 How to Reach Me
 - 🌐 Instagram: [@niklas_dudn](https://www.instagram.com/niklas_dud/)
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasDu&langs_count=10&layout=compact)
-
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – [Martin Fowler](https://martinfowler.com/)
