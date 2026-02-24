@@ -14,7 +14,7 @@ Here you’ll find some of my open-source work as well as progress in learning d
 - 🎁 Various smaller desktop and web projects
 
 ## 📫 How to Reach Me
-- 🌐 Instagram: [@niklas_dudn](https://www.instagram.com/niklas_dud/)
+- 🌐 Instagram: [@niklas_dud](https://www.instagram.com/niklas_dud/)
 
 ---
 
