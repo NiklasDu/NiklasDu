@@ -18,7 +18,3 @@ Here you’ll find some of my open-source work as well as progress in learning d
 
 ## 📫 How to Reach Me
 - 🌐 Instagram: [@niklas_dud](https://www.instagram.com/niklas_dud/)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – [Martin Fowler](https://martinfowler.com/)
