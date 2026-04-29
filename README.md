@@ -4,16 +4,16 @@ Welcome to my GitHub profile! I'm a software developer working on a variety of p
 Here you’ll find some of my open-source work as well as progress in learning different programming languages.
 
 ## ⚡ My Current Project
-- 🫂 [Mini-CRM](https://github.com/NiklasDu/mini-crm): A System for Customer Relationship Management
+- 🫂 [Mini-CRM](https://github.com/NiklasDu/mini-crm): A System for Customer Relationship Management (Java, Spring, React)
 
 ## 🦕 My Biggest Project
-- 🪄 [Wundrlist.com](https://wundrlist.com): A Website for creating wishlists and sharing them with friends and family.
+- 🪄 [Wundrlist.com](https://wundrlist.com): A Website for creating wishlists and sharing them with friends and family. (Python, React)
 
 ## 🔭 My Latest Projects
-- 💻 [KeyTap](https://github.com/NiklasDu/Typing-Speed-Test): A Desktop-App to test your typing speed on the keyboard.
-- 🤝 [MateWise](https://github.com/NiklasDu/MateWise): A Web-App to meet Learning Partners.
-- 🎶 [TuneScout](https://github.com/NiklasDu/TuneScout): Explore Charts for different Genres and Countries.
-- 🐦‍🔥 [PDFonix](https://github.com/NiklasDu/PDF-to-Audio): Convert PDF files into audio.
+- 💻 [KeyTap](https://github.com/NiklasDu/Typing-Speed-Test): A Desktop-App to test your typing speed on the keyboard. (Python)
+- 🤝 [MateWise](https://github.com/NiklasDu/MateWise): A Web-App to meet Learning Partners. (React)
+- 🎶 [TuneScout](https://github.com/NiklasDu/TuneScout): Explore Charts for different Genres and Countries. (Python)
+- 🐦‍🔥 [PDFonix](https://github.com/NiklasDu/PDF-to-Audio): Convert PDF files into audio. (Python)
 - 🎁 Various smaller desktop and web projects
 
 ## 📫 How to Reach Me
