@@ -3,6 +3,9 @@
 Welcome to my GitHub profile! I'm a software developer working on a variety of projects.  
 Here you’ll find some of my open-source work as well as progress in learning different programming languages.
 
+## ⚡ My Current Project
+- 🫂 [Mini-CRM](https://github.com/NiklasDu/mini-crm): A System for Customer Relationship Management
+
 ## 🦕 My Biggest Project
 - 🪄 [Wundrlist.com](https://wundrlist.com): A Website for creating wishlists and sharing them with friends and family.
 
